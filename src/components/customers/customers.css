@@ -126,4 +126,9 @@ table {
     outline: none;
   }
 
-  @media(max-width:)
+  @media(max-width:1100px){
+    table th, table td{
+      padding: 6px;
+      font-size: 13px;
+    }
+  }
