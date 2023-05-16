@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BlueSun-Dashboard/static/css/main.42b5b919.css",
+    "main.js": "/BlueSun-Dashboard/static/js/main.3e7031f3.js",
+    "static/media/avatar.png": "/BlueSun-Dashboard/static/media/avatar.a96eb7a29284bc051da9.png",
+    "index.html": "/BlueSun-Dashboard/index.html",
+    "main.42b5b919.css.map": "/BlueSun-Dashboard/static/css/main.42b5b919.css.map",
+    "main.3e7031f3.js.map": "/BlueSun-Dashboard/static/js/main.3e7031f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42b5b919.css",
+    "static/js/main.3e7031f3.js"
+  ]
+}
